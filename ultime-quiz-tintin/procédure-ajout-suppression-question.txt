@@ -1,0 +1,118 @@
+Tout ce qui est affiché plus bas est obsolète, car j'ai mis en place un MVC afin de faciliter la maintenance et les extensions 
+modifier seulement le fichier controller.php (si vous souhaitez rester sur une base de 30 questions)
+
+Modifier la variable : $nbQuestions = le nb de question en int 
+Ajouter / modifier la variable : $qx = la question en elle même
+Ajouter / Modifier les variables : $prAx, $prBx, $prCx, $rx (ou $rx, représente la bonne réponse)
+
+##########################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Ajouter / supprimer dans le fichier index.php la question et le choix des réponses A) B) ... 
+
+
+	<div> 
+        <p align="justify"> <strong> &#128313; Quel est le nom d'emprunt du général Alcazar lorsqu'il est lanceur de poignards dans Tintin et les 7 boules de cristal ?  </strong> </p>
+            <input type="radio" name="question-xxx-answers" id="question-xxx-answers-A" value="Zarate Ramon" />
+            <label for="question-xxx-answers-A">Zarate Ramon</label> <br>
+                        
+                            
+            <input type="radio" name="question-xxx-answers" id="question-xxx-answers-B" value="El Yamilah" />
+            <label for="question-xxx-answers-B">El Yamilah</label> <br>
+                      
+                            
+            <input type="radio" name="question-xxx-answers" id="question-xxx-answers-C" value="Trujillo Don José" />
+            <label for="question-xxx-answers-C">Trujillo Don José</label> <br>
+                          
+                            
+           <input type="radio" name="question-xxx-answers" id="question-xxx-answers-D" value="Van Damme" />
+    	   <label for="question-xxx-answers-D">Van Damme</label> <br>
+   	</div>
+
+
+
+2. Ajouter / supprimer dans le fichier grade.php 
+
+	if (empty($_POST['question-xxx-answers'])) { $_POST['question-xxx-answers'] = "Non renseigné"; }
+	...
+	
+
+	$answerXXX = $_POST['question-xxx-answers']; // stocke la réponse du joueurs depuis l'attributs name et non ID * 
+    ...
+
+
+    if ($answerXXX == "5888") { // si la bonne rep est 5888 alors, on incrémente le compteur ... 
+        $totalCorrect++;
+        $goodAnswerXXX = 1;
+        $emojiAnswerXXX = "&#9989;";
+    }
+    else {
+      	$goodAnswerXXX = 0;
+        $emojiAnswerXXX = "&#10060;";
+    }
+
+
+
+3. Ajouter / supprimer dans le fichier mail.php
+
+			...
+            <p align=\"justify\"> <b> QX : A quel hauteur culmine le train ? (Tintin et le temple du soleil)  </b> </p> 
+            <p align=\"justify\"> 
+            	Votre Réponse : $answerXXX ( $emojiAnswerXXX $goodAnswerXXX points) </p> 
+            <p> Réponse : <span style=\"color:green;\"> <strong> <u> 5888 mètres </u> </strong> </span> 
+            </p>
+            ...
+
