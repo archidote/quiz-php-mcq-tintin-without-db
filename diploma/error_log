@@ -1,0 +1,45 @@
+[23-Mar-2020 08:17:30 UTC] PHP Notice:  Undefined index: name in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma.php on line 25
+[23-Mar-2020 08:17:30 UTC] PHP Stack trace:
+[23-Mar-2020 08:17:30 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma.php:0
+[23-Mar-2020 08:17:30 UTC] PHP Notice:  Undefined index: totalCorrect in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma.php on line 28
+[23-Mar-2020 08:17:30 UTC] PHP Stack trace:
+[23-Mar-2020 08:17:30 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma.php:0
+[23-Mar-2020 08:17:30 UTC] PHP Notice:  Undefined index: name in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma.php on line 42
+[23-Mar-2020 08:17:30 UTC] PHP Stack trace:
+[23-Mar-2020 08:17:30 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma.php:0
+[06-Apr-2020 14:05:39 UTC] PHP Notice:  Undefined index: name in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-jury-s-congratulations.php on line 25
+[06-Apr-2020 14:05:39 UTC] PHP Stack trace:
+[06-Apr-2020 14:05:39 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-jury-s-congratulations.php:0
+[06-Apr-2020 14:05:39 UTC] PHP Notice:  Undefined index: totalCorrect in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-jury-s-congratulations.php on line 28
+[06-Apr-2020 14:05:39 UTC] PHP Stack trace:
+[06-Apr-2020 14:05:39 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-jury-s-congratulations.php:0
+[06-Apr-2020 14:05:39 UTC] PHP Notice:  Undefined index: name in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-jury-s-congratulations.php on line 43
+[06-Apr-2020 14:05:39 UTC] PHP Stack trace:
+[06-Apr-2020 14:05:39 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-jury-s-congratulations.php:0
+[10-Apr-2020 09:19:42 UTC] PHP Notice:  Undefined index: name in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-very-good.php on line 25
+[10-Apr-2020 09:19:42 UTC] PHP Stack trace:
+[10-Apr-2020 09:19:42 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-very-good.php:0
+[10-Apr-2020 09:19:42 UTC] PHP Notice:  Undefined index: totalCorrect in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-very-good.php on line 28
+[10-Apr-2020 09:19:42 UTC] PHP Stack trace:
+[10-Apr-2020 09:19:42 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-very-good.php:0
+[10-Apr-2020 09:19:42 UTC] PHP Notice:  Undefined index: name in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-very-good.php on line 43
+[10-Apr-2020 09:19:42 UTC] PHP Stack trace:
+[10-Apr-2020 09:19:42 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-very-good.php:0
+[10-Apr-2020 18:32:04 UTC] PHP Notice:  Undefined index: name in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-very-good.php on line 25
+[10-Apr-2020 18:32:04 UTC] PHP Stack trace:
+[10-Apr-2020 18:32:04 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-very-good.php:0
+[10-Apr-2020 18:32:04 UTC] PHP Notice:  Undefined index: totalCorrect in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-very-good.php on line 28
+[10-Apr-2020 18:32:04 UTC] PHP Stack trace:
+[10-Apr-2020 18:32:04 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-very-good.php:0
+[10-Apr-2020 18:32:04 UTC] PHP Notice:  Undefined index: name in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-very-good.php on line 43
+[10-Apr-2020 18:32:04 UTC] PHP Stack trace:
+[10-Apr-2020 18:32:04 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-very-good.php:0
+[11-Apr-2020 20:40:16 UTC] PHP Notice:  Undefined index: name in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-good.php on line 25
+[11-Apr-2020 20:40:16 UTC] PHP Stack trace:
+[11-Apr-2020 20:40:16 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-good.php:0
+[11-Apr-2020 20:40:16 UTC] PHP Notice:  Undefined index: totalCorrect in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-good.php on line 28
+[11-Apr-2020 20:40:16 UTC] PHP Stack trace:
+[11-Apr-2020 20:40:16 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-good.php:0
+[11-Apr-2020 20:40:17 UTC] PHP Notice:  Undefined index: name in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-good.php on line 43
+[11-Apr-2020 20:40:17 UTC] PHP Stack trace:
+[11-Apr-2020 20:40:17 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma-good.php:0

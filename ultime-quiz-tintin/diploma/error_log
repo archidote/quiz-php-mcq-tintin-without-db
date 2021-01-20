@@ -1,9 +1,0 @@
-[23-Mar-2020 08:17:30 UTC] PHP Notice:  Undefined index: name in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma.php on line 25
-[23-Mar-2020 08:17:30 UTC] PHP Stack trace:
-[23-Mar-2020 08:17:30 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma.php:0
-[23-Mar-2020 08:17:30 UTC] PHP Notice:  Undefined index: totalCorrect in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma.php on line 28
-[23-Mar-2020 08:17:30 UTC] PHP Stack trace:
-[23-Mar-2020 08:17:30 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma.php:0
-[23-Mar-2020 08:17:30 UTC] PHP Notice:  Undefined index: name in /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma.php on line 42
-[23-Mar-2020 08:17:30 UTC] PHP Stack trace:
-[23-Mar-2020 08:17:30 UTC] PHP   1. {main}() /home/u621627980/domains/brlnd-tech.eu/public_html/ultime-quiz-tintin/diploma/diploma.php:0
