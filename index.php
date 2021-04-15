@@ -6,7 +6,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <meta name="description" content="L'ultime quiz de Tintin, êtes-vous un vrai connaisseur de la série annimée ? Teste tes connaissances et tente ta chance d'obtenir le Diplome du Tintin'Ophile">
+  <meta name="description" content="L'ultime quiz de Tintin, êtes-vous un vrai connaisseur de la série annimée ? Testez vos connaissances et tentez votre chance d'obtenir le Diplôme du Tintin'Ophile">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- pour un responsive  à la volé -->
   <link rel="icon" href="images/favicon.ico" />
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -58,10 +58,10 @@
                     </br>
                         <div class ="cardEndForm">
                             <div class="group">
-                                <p> Email *  : <input type="email" id="email" name="email" required size="15" placeholder="Entrer votre email ici ... "> </p>
-                                <p> Nom / Prénom :<input type="text" id="name" name="name"  size="15" placeholder="Entrer votre nom et votre prénom ..."> </p>
-                                <p> Âge :<input type="number" id="age" name="age"  size="15" placeholder="Indiquer votre âge ici ... "> </p>
-                                <p> <i> le champ avec un astérisque * est requis afin que je puisse vous envoyer la correction </i> <p>
+                                <p> Email *  : <input type="email" id="email" name="email" required size="15" placeholder="Entrez votre email ici ... "> </p>
+                                <p> Nom / Prénom :<input type="text" id="name" name="name"  size="15" placeholder="Entrez votre nom et votre prénom ..."> </p>
+                                <p> Âge :<input type="number" id="age" name="age"  size="15" placeholder="Indiquez votre âge ici ... "> </p>
+                                <p> <i> le champ avec un astérisque * est requis afin que nous puissions vous envoyer la correction </i> <p>
                                 <input type="submit" value="Envoyer les réponses" />
                             </div>
                         </div>
@@ -99,7 +99,7 @@
 	</div> <!-- fin footer -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"> // permet de pouvoir inclure un fichier permettant d'exec le js VERSION :   mai 2019 </script> 
     <script type="text/javascript">
-    // Permet de randomiser les questions, preponse qui sont stocké dans une Div pour chaque"
+    // Permet de randomiser les questions, preponse qui sont stocké dans une Div pour chaque
     $(document).ready(function(){
         var collection = $("div.container div").get();
         collection.sort(function() {
@@ -112,7 +112,7 @@
     </script>
     <!-- Message d'accueil-->
     <script>
-        alert("Salut, Les questions de ce quiz sont basés sur les 21 épisodes des aventures de Tintin (série télévisée d'animation - 1991), ainsi que sur le film d'animation Tintin et le lac aux requins. Vous disposez de 22 minutes dès à présent. N'Oubliez pas de remplir le formulaire Email-Nom/Prénom-Age. Bonne chance :)");
+        alert("Salut, Les questions de ce quiz sont basés sur les 21 épisodes des aventures de Tintin (série télévisée d'animation - 1991), ainsi que sur le film d'animation Tintin et le lac aux requins. Vous disposez de 22 minutes dès à présent. N'oubliez pas de remplir le formulaire Email-Nom/Prénom-Âge. Bonne chance :)");
     </script>
     <script  src="./js/timerInMinutes.js"></script> <!-- compteur decrémenté de 22min à 0 puis envois -->
     <script  src="./js/sendFormAutomatically-php.js"></script> <!-- envois le form automatiquement au bout de 22 minutes -->
