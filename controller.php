@@ -10,7 +10,7 @@
 // $nbQuestions = nb de question lié au quiz 
 ****************************************************** 
 */
-$mailTransmitter = "Quiz-Tintin@Brlnd-tech.eu";
+$mailTransmitter = "quiz-tintin@le-guide-du-sysops.fr";
 $mailName = "Tintin - Ultime quiz";
 $subjectMail = "Correction ! l'ultime quiz de Tintin";
 $nbQuestions = 40;

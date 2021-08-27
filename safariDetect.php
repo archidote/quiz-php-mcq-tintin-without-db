@@ -4,7 +4,7 @@
     <script type="text/javascript">
             var browserOK = $.browser.name
             if (browserOK == 'safari') {
-                var browserDetails = "<p>Votre navigateur est "+ browserOK +". Utilisez plutôt <a href=\"googlechrome://brlnd-tech.eu/ultime-quiz-tintin/\">Chrome</a>. ou téléchargez :  <a href=\"https://apps.apple.com/fr/app/google-chrome/id535886823\">Chrome</a>";
+                var browserDetails = "<p>Votre navigateur est "+ browserOK +". Utilisez plutôt <a href=\"googlechrome://le-guide-du-sysops.fr/ultime-quiz-tintin/\">Chrome</a>. ou téléchargez :  <a href=\"https://apps.apple.com/fr/app/google-chrome/id535886823\">Chrome</a>";
                 // normal, que ce script renvois du blanc sur chrome et les autres nav
                 document.write(browserDetails);
             }
